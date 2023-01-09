@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)]
+![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
 <h1 align="center">Hi! I'm Saad  👋 </h1>
 <h3 align="center">Having previously been recognised for possessing exceptional talent, a strong aptitude for computing, technical and problem-solving skills as a banker in Canary Wharf, I embarked on a passion project to apply my skills to the more exciting, creative, and innovative world of technology. Following a successful computer science degree and attending the Bright Network Technology Academy, I now seek to dive head first into a new technology career and look forward to learning as much as possible.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
