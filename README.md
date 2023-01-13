@@ -1,6 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
 <h1 align="center">Hi! I'm Saad  👋 </h1>
-<h3 align="center">Having previously been recognised for possessing exceptional talent, a strong aptitude for computing, technical and problem-solving skills as a banker in Canary Wharf, I embarked on a passion project to apply my skills to the more exciting, creative, and innovative world of technology. Following a successful computer science degree and attending the Bright Network Technology Academy, I now seek to dive head first into a new technology career and look forward to learning as much as possible.</h3>
+<h3 align="center">Working at Barclays really opened up my eyes to the wonderful, exciting, and evolutionary world of
+technology because it was much more fun to explore than working on low interest rate corporate banking
+deals. By utilising a variety of software, my mind was constantly switched on because I loved learning how
+to solve problems with creative ideas which ultimately added great value to our client relationships. Over
+time, I developed a passion for technology and knew having a career in this field was the right next move for
+me, which is why I decided to pursue my computer science degree and my bootcamp. I now seek to dive
+head-first into a new technology career and look forward to learning as much as possible.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadahm997&label=Profile%20views&color=0e75b6&style=flat" alt="saadahm997" /> </p>
